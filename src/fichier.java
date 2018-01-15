@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.io.FileWriter;
 
+//
+
 public class fichier {
 
     public enum file_default {
